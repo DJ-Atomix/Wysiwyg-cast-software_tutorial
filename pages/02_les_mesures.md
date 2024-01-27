@@ -17,3 +17,9 @@ Cliquez sur les 2 points pour afficher la mesure
 Cliquez sur les 2 lignes adjacentes pour afficher un angle
 
 ![Alt text](../images/2024-01-27_06h19_38.png)
+
+## les règles
+
+![Alt text](../images/2024-01-27_16h01_53.png)
+![Alt text](../images/2024-01-27_16h02_15.png)
+![Alt text](../images/2024-01-27_16h02_32.png)
