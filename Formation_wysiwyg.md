@@ -2,7 +2,7 @@ Résumé en images des vidéos de formation youtube du logiciel WYSIWYG
 
 Merci à tous pour ces vidéos
 
-# Les titres 
+# Les pages 
 [Présentation du logiciel](pages/01_Presentation.md)
 
 [Le mode CAD](pages/02_Mode_CAD.md)
@@ -20,6 +20,8 @@ Merci à tous pour ces vidéos
 6. [Les projecteurs](pages/02_projecteur.md)
 
 7. [La structure](pages/02_truss.md)
+
+8. [Importer un fichier](pages/Import.md)
 
 [Le mode DATA](pages/03_Mode_DATA.md)
 
