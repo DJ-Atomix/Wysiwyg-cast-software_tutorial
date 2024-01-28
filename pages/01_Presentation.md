@@ -40,7 +40,9 @@ pour ajouter une barre
 
 tout sélectionner, distribuate fixture bewteen two points, et cliquez sur les 2 points
 
-**attention ne fonction que pour des projecteurs et de la structure dans le meme sens**
+**attention ne fonction que pour des projecteurs et de la structure assemblée**
+
+![Alt text](../images/2024-01-28_11h07_17.png)
 
 ![Alt text](../images/2024-01-27_15h52_43.png)
 ![Alt text](../images/2024-01-27_15h53_03.png)

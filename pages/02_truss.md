@@ -50,3 +50,8 @@ spin 90°
 GEstionnaires / truss manager
 ![Alt text](../images/2024-01-28_08h42_55.png)
 
+## reassembler les structure
+ne pas grouper les structures, mais plutot reassembler la structure
+
+![Alt text](../images/2024-01-28_11h07_17.png)
+
