@@ -81,6 +81,9 @@ pour snaper la structure mieux vaut activer que le snap truss
 Attention au placement des prises
 
 ![Alt text](../images/2024-01-28_05h46_04.png)
+et au montant utilisé. travailler avec la fenetre 3D
+
+![Alt text](../images/2024-01-28_14h24_17.png)
 
 11. orienter les projecteurs
 

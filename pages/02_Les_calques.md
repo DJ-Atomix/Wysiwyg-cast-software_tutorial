@@ -40,3 +40,13 @@ et appuyer sur le bouton grouper
 
 ![Alt text](../images/2024-01-27_06h54_34.png)
 
+## les scènes   
+
+La scène vous permet de préparer une liste de calques visibles.
+vous pouvez sauter d'une visu à une autre rapidement
+obligatoire pour l'impression de plan
+
+![Alt text](../images/2024-01-28_22h08_54.png)
+![Alt text](../images/2024-01-28_22h09_31.png)
+
+
