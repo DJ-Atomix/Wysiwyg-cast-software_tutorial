@@ -143,5 +143,9 @@ si vous avez un plan PDF, convertissez le en DWG sur un convertisseur en ligne o
 Fichier importer un plan de sol pour un PNG
 ou fusionner pour un DWG
 
+pour le cacher le plan de sol :
+
+![Alt text](../images/2024-01-28_08h07_38.png)
+
 
 

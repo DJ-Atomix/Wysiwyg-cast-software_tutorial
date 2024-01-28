@@ -45,5 +45,8 @@ spin 90°
 ![Alt text](../images/2024-01-27_16h11_57.png)
 ![Alt text](../images/2024-01-27_16h12_06.png)
 
+## colorer les structures
 
+GEstionnaires / truss manager
+![Alt text](../images/2024-01-28_08h42_55.png)
 
