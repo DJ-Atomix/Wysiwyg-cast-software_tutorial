@@ -14,7 +14,7 @@ Wysiwyg force à enregistrer un projet avec un dossier principal et des sous dos
 
 ![Alt text](../images/2024-01-28_04h13_51.png)
 
-# les barres
+## les barres
 
 pour ajouter une barre
 
@@ -27,21 +27,27 @@ pour ajouter une barre
 
 ![Alt text](../images/2024-01-28_06h16_01.png)
 
-# Changer les unités
+## Changer les unités
 
 ![Alt text](../images/IMG_0999.JPEG)
 ![Alt text](../images/IMG_1003.JPEG)
 
-# enregistrer une vue (position et zoom)
+## enregistrer une vue (position et zoom)
 
 ![Alt text](../images/2024-01-27_16h39_59.png)
 
-# modifier une vue
+## modifier une vue
 
 ![Alt text](../images/2024-01-27_13h24_59.png)
 ![Alt text](../images/2024-01-27_13h25_41.png)
 
-# distribuer les objets
+## naviguation
+permet d'engistrer un ensemble de fenètres et de les remettre rapidement en place
+
+![Alt text](../images/2024-01-30_07h12_39.png)
+![Alt text](../images/2024-01-30_07h12_48.png)
+
+## distribuer les objets
 
 tout sélectionner, distribuate fixture bewteen two points, et cliquez sur les 2 points
 
@@ -57,11 +63,15 @@ attention pour des lyres au sol, ce ne sont pas des fixtures, mais des objets
 
 ![Alt text](../images/2024-01-27_15h56_01.png)
 
-# points à voir
+## points à voir
 rigging
 ![Alt text](../images/2024-01-27_16h45_03.png)
 
-# raccourci
+## raccourci
 
 grouper ctrl G
 groupe de projo ctrl J
+
+## revenir sur la home page
+fichier/fermer
+![Alt text](../images/2024-01-30_07h26_51.png)

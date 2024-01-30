@@ -70,5 +70,6 @@ et le mettre dans les appareils
 
 ![Alt text](../images/2024-01-27_13h21_10.png)
 
+## créer un projecteur ou un appareil qui sera installé sur la structure
 
-
+![Alt text](../images/2024-01-30_07h27_51.png)
